@@ -109,3 +109,9 @@ Our failure to enforce any right or provision of these Terms will not be conside
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 15 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
 
 By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.
+
+## Contact Us
+
+If you have any questions about these Terms, please contact us.
+
+[See terms and conditions](./Ubideo_Terms-and-Conditions_2016-01-28.pdf)
