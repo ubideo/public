@@ -115,3 +115,5 @@ By continuing to access or use our Service after those revisions become effectiv
 If you have any questions about these Terms, please contact us.
 
 [See terms and conditions](./Ubideo_Terms-and-Conditions_2016-01-28.pdf)
+
+info@ubideo.com
